@@ -1,0 +1,14 @@
+{
+	"name": "nut-ocr-electron-bug",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {
+		"@nut-tree/nl-matcher": "^2.2.0",
+		"@nut-tree/nut-js": "^3.0.0",
+		"@nut-tree/plugin-ocr": "^1.0.2",
+		"electron": "^22.3.1"
+	}
+}
